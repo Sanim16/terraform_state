@@ -1,7 +1,7 @@
 # Deploy an AWS S3 Bucket and DynamoDB Table for terraform remote state via Terraform
 
 
-[![Github Actions](https://github.com/Sanim16/terraform_state/actions/workflows/actions.yml/badge.svg)](https://github.com/Sanim16/terraform_state/actions/workflows/actions.yml)
+[![Github Actions](https://github.com/Sanim16/terraform_state/actions/workflows/infra.yml/badge.svg)](https://github.com/Sanim16/terraform_state/actions/workflows/infra.yml)
 
 >This is a Terraform project that deploys an S3 Bucket and a DynamoDB Table for use with my terraform remote state files and for backend management.
 
